@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2024</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5364" lry="7115" xml:id="facs_70">
+         <graphic url="0070_070_33v.jpeg" width="5364px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PESLGIKUCIVIEVZNCKRDVUXW&amp;fileType=view" width="5364px" height="7115px"/>
+         <zone points="4136,263 5144,263 5144,685 4136,685" rendition="TextRegion" xml:id="facs_70_r_1545">
+            <zone points="4476,256 4695,256 4695,499 4476,499" rendition="Line" xml:id="facs_70_tr_1_tl_1"/>
+         </zone>
+         <zone points="47,761 5107,761 5107,6572 47,6572" rendition="TextRegion" xml:id="facs_70_tr_1">
+            <zone points="207,670 1851,670 1851,1017 207,1017" rendition="Line" xml:id="facs_70_tr_1_tl_2"/>
+            <zone points="457,944 1882,944 1882,1255 457,1255" rendition="Line" xml:id="facs_70_tr_1_tl_3"/>
+            <zone points="505,1206 4768,1206 4768,1559 505,1559" rendition="Line" xml:id="facs_70_tr_1_tl_4"/>
+            <zone points="189,1510 5073,1510 5073,1912 189,1912" rendition="Line" xml:id="facs_70_tr_1_tl_5"/>
+            <zone points="627,1797 3094,1797 3094,2156 627,2156" rendition="Line" xml:id="facs_70_tr_1_tl_6"/>
+            <zone points="566,2101 4665,2101 4665,2515 566,2515" rendition="Line" xml:id="facs_70_tr_1_tl_7"/>
+            <zone points="195,2363 4330,2363 4330,2789 195,2789" rendition="Line" xml:id="facs_70_tr_1_tl_8"/>
+            <zone points="238,2698 5018,2698 5018,3069 238,3069" rendition="Line" xml:id="facs_70_tr_1_tl_9"/>
+            <zone points="238,2990 5061,2990 5061,3368 238,3368" rendition="Line" xml:id="facs_70_tr_1_tl_10"/>
+            <zone points="238,3295 4890,3295 4890,3691 238,3691" rendition="Line" xml:id="facs_70_tr_1_tl_12"/>
+            <zone points="2570,3240 3191,3240 3191,3435 2570,3435" rendition="Line" xml:id="facs_70_tr_1_tl_11"/>
+            <zone points="231,3599 5043,3599 5043,3971 231,3971" rendition="Line" xml:id="facs_70_tr_1_tl_13"/>
+            <zone points="231,3904 4641,3904 4641,4275 231,4275" rendition="Line" xml:id="facs_70_tr_1_tl_14"/>
+            <zone points="12,4129 1054,4129 1054,4385 12,4385" rendition="Line" xml:id="facs_70_tr_1_tl_15"/>
+            <zone points="1309,4226 4994,4226 4994,4555 1309,4555" rendition="Line" xml:id="facs_70_tr_1_tl_16"/>
+            <zone points="244,4476 4842,4476 4842,4909 244,4909" rendition="Line" xml:id="facs_70_tr_1_tl_17"/>
+            <zone points="262,4768 5049,4768 5049,5189 262,5189" rendition="Line" xml:id="facs_70_tr_1_tl_18"/>
+            <zone points="231,5061 4909,5061 4909,5457 231,5457" rendition="Line" xml:id="facs_70_tr_1_tl_19"/>
+            <zone points="43,5329 603,5329 603,5518 43,5518" rendition="Line" xml:id="facs_70_tr_1_tl_20"/>
+            <zone points="286,5396 4829,5396 4829,5798 286,5798" rendition="Line" xml:id="facs_70_tr_1_tl_21"/>
+            <zone points="286,5676 4641,5676 4641,6096 286,6096" rendition="Line" xml:id="facs_70_tr_1_tl_23"/>
+            <zone points="2211,5688 2734,5688 2734,5846 2211,5846" rendition="Line" xml:id="facs_70_tr_1_tl_22"/>
+            <zone points="304,6005 4835,6005 4835,6394 304,6394" rendition="Line" xml:id="facs_70_tr_1_tl_24"/>
+            <zone points="304,6285 4817,6285 4817,6693 304,6693" rendition="Line" xml:id="facs_70_tr_1_tl_25"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_70" n="70" xml:id="img_0070"/>
+            <ab facs="#facs_70_r_1545" type="">
+               <l facs="#facs_70_tr_1_tl_1" n="N001">32</l>
+            </ab>
+            <ab facs="#facs_70_tr_1" type="">
+               <l facs="#facs_70_tr_1_tl_2" n="N001">It was from Norwood and</l>
+               <l facs="#facs_70_tr_1_tl_3" n="N002">it ran as follows.</l>
+               <l facs="#facs_70_tr_1_tl_4" n="N003"><l rend="indent"/>Important fresh evidence to hand. M. Farlane's guilt</l>
+               <l facs="#facs_70_tr_1_tl_5" n="N004"><l rend="indent"/>defintely established. Advise you to abandon case. Lestrade</l>
+               <l facs="#facs_70_tr_1_tl_6" n="N005"><l rend="indent"/>This sounds serious said I</l>
+               <l facs="#facs_70_tr_1_tl_7" n="N006"><l rend="indent"/>It is Lestradis little cochadoodle of victory Holmes</l>
+               <l facs="#facs_70_tr_1_tl_8" n="N007">answered with a bitter smile.<l rend="indent"/>And yet it may be</l>
+               <l facs="#facs_70_tr_1_tl_9" n="N008"><l rend="indent"/>premature to abandon the case. After all important fresh</l>
+               <l facs="#facs_70_tr_1_tl_10" n="N009"><l rend="indent"/>evidence is a two-edged thing and may possibly cut in</l>
+               <l facs="#facs_70_tr_1_tl_12" n="N010"><l rend="indent"/>a very different direction to<add place="supralinear">that which</add>what Lestrade imagines.</l>
+               <l facs="#facs_70_tr_1_tl_13" n="N012"><l rend="indent"/>Take your breakfast, Watson, and we shall go out together and</l>
+               <l facs="#facs_70_tr_1_tl_14" n="N013"><l rend="indent"/>see what we can do. I feel as if I shall need your company &amp; your</l>
+               <l facs="#facs_70_tr_1_tl_15" n="N014"><l rend="indent"/>moral support to-day</l>
+               <l facs="#facs_70_tr_1_tl_16" n="N015">My friend had no breakfast himself for it was one</l>
+               <l facs="#facs_70_tr_1_tl_17" n="N016">of his peculiarities that in his more intense moments he would</l>
+               <l facs="#facs_70_tr_1_tl_18" n="N017">permit himself no food, and I have known him presume upon</l>
+               <l facs="#facs_70_tr_1_tl_19" n="N018">his iron strength until he has fainted from pure inanition.</l>
+               <l facs="#facs_70_tr_1_tl_21" n="N020"><l rend="indent"/><add place="supralinear">At present</add>I really cannot spare energy and nerve force for digestion" he</l>
+               <l facs="#facs_70_tr_1_tl_23" n="N021">would say in answer to my<add place="supralinear">medical</add>remonstrances. I was not</l>
+               <l facs="#facs_70_tr_1_tl_24" n="N023">surprised therefore when this morning he left his untouched</l>
+               <l facs="#facs_70_tr_1_tl_25" n="N024">meal behind him and started with me for Norwood. A</l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>
