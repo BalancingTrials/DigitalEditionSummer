@@ -1,6 +1,3 @@
-body {
-
-}
 .starter-template {
   padding: 40px 15px;
   text-align: center;
@@ -12,6 +9,9 @@ img {
 
 p {
     text-indent: 10px;
+    display: block;
+    text-align: center;
+   
 }
 
 .row {
@@ -25,7 +25,8 @@ p {
 }
 
 .add {
-  color: green;
+  color: rgb(220, 225, 85);
+  
 }
 
 .del {

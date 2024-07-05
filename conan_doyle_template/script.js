@@ -21,6 +21,7 @@ function documentLoader() {
       var xsltProcessor = new XSLTProcessor();
       xsltProcessor.importStylesheet(xsl_doc);
       var resultDocument = xsltProcessor.transformToFragment(xml_doc, document);
+      console.log(xml_doc)
 
       var criticalElement = document.getElementById("text");
       criticalElement.innerHTML = ''; // Clear existing content

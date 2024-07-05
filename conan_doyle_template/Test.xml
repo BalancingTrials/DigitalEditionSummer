@@ -50,32 +50,33 @@
    </facsimile>
    <text>
       <body><div><pb facs="#facs_70" n="70" xml:id="img_0070"/>
-            <ab facs="#facs_70_r_1545" type="">
-               <l facs="#facs_70_tr_1_tl_1" n="N001">32</l>
-            </ab>
-            <ab facs="#facs_70_tr_1" type="">
+      <p>
+            <p facs="#facs_70_r_1545" type="">
+               <l facs="#facs_70_tr_1_tl_1" n="N000">32</l>
+            </p>
+         <p>
                <l facs="#facs_70_tr_1_tl_2" n="N001">It was from Norwood and</l>
                <l facs="#facs_70_tr_1_tl_3" n="N002">it ran as follows.</l>
-               <l facs="#facs_70_tr_1_tl_4" n="N003"><l rend="indent"/>"Important fresh evidence to hand. M. Farlane's guilt</l>
-               <l facs="#facs_70_tr_1_tl_5" n="N004"><l rend="indent"/>defintely established. Advise you to abandon case. Lestrade"</l>
-               <l facs="#facs_70_tr_1_tl_6" n="N005"><l rend="indent"/>"This sounds serious" said I.</l>
+               <l facs="#facs_70_tr_1_tl_4" n="N003"><l rend="indent"/>'Important fresh evidence to hand. M. Farlane's guilt</l>
+               <l facs="#facs_70_tr_1_tl_5" n="N004"><l rend="indent"/>defintely established. Advise you to abandon case. Lestrade'</l></p>
+               <l facs="#facs_70_tr_1_tl_6" n="N005">"This sounds serious" said I.</l>
                <l facs="#facs_70_tr_1_tl_7" n="N006"><l rend="indent"/>"It is Lestradis little cochadoodle of victory" Holmes</l>
-               <l facs="#facs_70_tr_1_tl_8" n="N007">answered with a bitter smile.<l rend="indent"/>"And yet it may be</l>
+               <l facs="#facs_70_tr_1_tl_8" n="N007">answered with a bitter smile.<l rend="indent"/> "And yet it may be</l>
                <l facs="#facs_70_tr_1_tl_9" n="N008"><l rend="indent"/>premature to abandon the case. After all important fresh</l>
                <l facs="#facs_70_tr_1_tl_10" n="N009"><l rend="indent"/>evidence is a two-edged thing and may possibly cut in</l>
-               <l facs="#facs_70_tr_1_tl_12" n="N010"><l rend="indent"/>a very different direction to<add place="supralinear">that which</add>what Lestrade imagines.</l>
+               <l facs="#facs_70_tr_1_tl_12" n="N010"><l rend="indent"/>a very different direction to <add place="supralinear">that which </add>what Lestrade imagines.</l>
                <l facs="#facs_70_tr_1_tl_13" n="N012"><l rend="indent"/>Take your breakfast, Watson, and we shall go out together and</l>
                <l facs="#facs_70_tr_1_tl_14" n="N013"><l rend="indent"/>see what we can do. I feel as if I shall need your company &amp; your</l>
-               <l facs="#facs_70_tr_1_tl_15" n="N014"><l rend="indent"/>moral support to-day."</l>
+               <l facs="#facs_70_tr_1_tl_15" n="N014"><l rend="indent"/>moral support to-day."</l><p></p>
                <l facs="#facs_70_tr_1_tl_16" n="N015">My friend had no breakfast himself for it was one</l>
-               <l facs="#facs_70_tr_1_tl_17" n="N016">of his peculiarities that in his more intense moments he would</l>
+               <l facs="#facs_70_tr_1_tl_17" n="N016">of his peculiarities that in his more intense moments he would</l>
                <l facs="#facs_70_tr_1_tl_18" n="N017">permit himself no food, and I have known him presume upon</l>
                <l facs="#facs_70_tr_1_tl_19" n="N018">his iron strength until he has fainted from pure inanition.</l>
                <l facs="#facs_70_tr_1_tl_21" n="N020"><l rend="indent"/><add place="supralinear">At present </add>"I really cannot spare energy and nerve force for digestion" he</l>
                <l facs="#facs_70_tr_1_tl_23" n="N021">would say in answer to my <add place="supralinear">medical </add>remonstrances. I was not</l>
                <l facs="#facs_70_tr_1_tl_24" n="N023">surprised therefore when this morning he left his untouched</l>
                <l facs="#facs_70_tr_1_tl_25" n="N024">meal behind him and started with me for Norwood. A</l>
-            </ab></div>
+      </p></div>
       </body>
    </text>
 </TEI>
